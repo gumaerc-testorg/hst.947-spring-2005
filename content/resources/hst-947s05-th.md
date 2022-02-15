@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-947-medical-artificial-intelligence-spring-2005/e1d475ff950986d174e267143ca44f6c_hst-947s05-th.jpg
+file: /media/courses/hst-947-medical-artificial-intelligence-spring-2005/e1d475ff950986d174e267143ca44f6c_hst-947s05-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: For their term project, several students explored knowledge acquisition
@@ -10,6 +10,8 @@ image_metadata:
     Meyer, and Manu Sondhi. Used with permission.)
   credit: ''
   image-alt: A screenshot of a computer medical diagnotic tool.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: hst-947s05-th.jpg
 uid: e1d475ff-9509-86d1-74e2-67143ca44f6c
