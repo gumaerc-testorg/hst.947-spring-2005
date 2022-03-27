@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64bb7195-b0c4-ee52-8fbf-dadf90a6a661
 resourcetype: Document
 title: anemias_tutoring.pdf
 uid: d5a54398-640c-874e-0aca-cfa9c9365bbf

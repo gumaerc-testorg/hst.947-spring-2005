@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64bb7195-b0c4-ee52-8fbf-dadf90a6a661
 resourcetype: Document
 title: risk_cardiology.pdf
 uid: e3559922-e798-fa9b-75ed-c8f7daf0bd52

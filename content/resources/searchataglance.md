@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f9038d66-055b-c107-1709-8b722872b9d7
 resourcetype: Document
 title: searchataglance.pdf
 uid: a5c1e4ff-a283-0dd0-f2c0-491b11004d1d

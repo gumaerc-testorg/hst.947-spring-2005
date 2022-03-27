@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1763beb5-fe1d-6cec-c586-e589bf7c9047
 resourcetype: Document
 title: ch5_mach1.pdf
 uid: 7892c198-a757-0f8e-36ff-4f5fb1f2a4a1

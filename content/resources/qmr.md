@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64bb7195-b0c4-ee52-8fbf-dadf90a6a661
 resourcetype: Document
 title: qmr.pdf
 uid: d5023f7c-c3b1-4269-f895-47b12d2089a6
