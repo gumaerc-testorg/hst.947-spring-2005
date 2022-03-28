@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: chp_decisiontree.jpg
 uid: 65d10adb-0ef1-c412-ef8e-d288621c5255

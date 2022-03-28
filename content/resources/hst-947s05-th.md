@@ -12,6 +12,7 @@ image_metadata:
   image-alt: A screenshot of a computer medical diagnotic tool.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: hst-947s05-th.jpg
 uid: e1d475ff-9509-86d1-74e2-67143ca44f6c
