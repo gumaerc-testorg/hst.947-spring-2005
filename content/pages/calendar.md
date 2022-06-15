@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The calendar section lists the lecture topics covered in the course along
+  with the key due dates.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: d2c3eaaa-2191-58de-9328-dd9f3d5ef2e0
 ---

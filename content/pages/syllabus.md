@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: The syllabus section contains an overview for the course, along with
+  the prerequisites, major topics to be covered, grading criteria and desired subject
+  outcomes for the course 6.034.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: d3f3f3fd-384e-92eb-f9c7-2fcf7483e774
 ---

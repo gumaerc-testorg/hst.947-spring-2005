@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: The readings section lists the suggested readings for the course as per
+  the lecture topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 420c10cd-e013-37f3-f432-fc357e9a03ea
 ---
 
-HST.947 students are expected to complete all readings for 6.034. The Chapter readings assigned for lecture sessions (L) come from the course {{< resource_link 1763beb5-fe1d-6cec-c586-e589bf7c9047 "lecture notes" >}}. Additonal readings are assigned for the weekly discussion sessions (D) as listed in the table.
+HST.947 students are expected to complete all readings for 6.034. The Chapter readings assigned for lecture sessions (L) come from the course {{% resource_link 1763beb5-fe1d-6cec-c586-e589bf7c9047 "lecture notes" %}}. Additonal readings are assigned for the weekly discussion sessions (D) as listed in the table.
 
 {{< tableopen >}}
 {{< theadopen >}}
