@@ -6,6 +6,7 @@ file: /courses/hst-947-medical-artificial-intelligence-spring-2005/6e11bcbf0fd9d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: q1_soln.pdf
 uid: 6e11bcbf-0fd9-d27d-0179-028e14325896
 ---
 This resource provides 5 questions for quiz 1 along with their grading points.
-

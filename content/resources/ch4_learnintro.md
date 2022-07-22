@@ -7,6 +7,7 @@ file: /courses/hst-947-medical-artificial-intelligence-spring-2005/70b3fa98b2f44
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ch4_learnintro.pdf
 uid: 70b3fa98-b2f4-403d-566c-bdd3b57bfbfb
 ---
 This resource contains lecture slides and accompanying transcripts for chapter 4. The transcripts allow students to review lecture material in detail as they study for upcoming assignments and quizzes.
-

@@ -7,6 +7,7 @@ file: /courses/hst-947-medical-artificial-intelligence-spring-2005/2a55b0b6ea166
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ch6_mach2.pdf
 uid: 2a55b0b6-ea16-66d9-7876-cf19013ca22e
 ---
 This resource contains lecture slides and accompanying transcripts for chapter 6. The transcripts allow students to review lecture material in detail as they study for upcoming assignments and quizzes.
-

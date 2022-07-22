@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_decisiontree.jpg
 uid: 65d10adb-0ef1-c412-ef8e-d288621c5255
 ---
 An example of a decision tree from Chapter 9 (Machine Learning I) of the readings section. (Image by Tom?s Lozano-P?rez and Leslie Kaelbling.)
-

@@ -7,6 +7,7 @@ file: /courses/hst-947-medical-artificial-intelligence-spring-2005/24711fda89f82
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ch3_csp_games1.pdf
 uid: 24711fda-89f8-238f-668f-939c02f20bfa
 ---
 This resource contains lecture slides and accompanying transcripts for chapter 3. The transcripts allow students to review lecture material in detail as they study for upcoming assignments and quizzes.
-
