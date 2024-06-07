@@ -4,6 +4,7 @@ description: This resource contains lecture slides and accompanying transcripts 
   chapter 7. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/161a8e045a71ebc016ca76a848f7b546_ch7_mach3.pdf
+file_size: 1987975
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource contains lecture slides and accompanying transcripts 
   chapter 11. The transcripts allow students to review lecture material in detail
   as they study for upcoming assignments and quizzes.
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/1b6ddd1ae9c8fbc1de1d850513b1f20f_ch11_logicprog.pdf
+file_size: 1411705
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

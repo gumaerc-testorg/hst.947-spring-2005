@@ -5,6 +5,7 @@ description: 'This resource includes a sample term paper submitted by the studen
   Knowledge Base, and Incorporating Temporal and Geographic Trends, Genetic Testing,
   UMLS and Standard Vocabularies in QMR.'
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/d5023f7cc3b14269f89547b12d2089a6_qmr.pdf
+file_size: 891885
 file_type: application/pdf
 learning_resource_types:
 - Projects
