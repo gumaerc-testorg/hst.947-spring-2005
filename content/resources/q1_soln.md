@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides 5 questions for quiz 1 along with their grading
   points.
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/6e11bcbf0fd9d27d0179028e14325896_q1_soln.pdf
+file_size: 547073
 file_type: application/pdf
 learning_resource_types:
 - Exams

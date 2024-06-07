@@ -4,6 +4,7 @@ description: This resource contains lecture slides and accompanying transcripts 
   chapter 10. The transcripts allow students to review lecture material in detail
   as they study for upcoming assignments and quizzes.
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/be702753a1f6d27c559b806ea4595e6d_ch10_logic2a.pdf
+file_size: 2194547
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
