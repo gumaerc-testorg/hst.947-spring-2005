@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information regarding various methods, their guarantee,
   the heuristic?, optimization, worst case time and worst case space.
 file: /courses/hst-947-medical-artificial-intelligence-spring-2005/a5c1e4ffa2830dd0f2c0491b11004d1d_searchataglance.pdf
+file_size: 34752
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
