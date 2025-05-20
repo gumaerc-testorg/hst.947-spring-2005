@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides and accompanying transcripts for
   chapter 12. The transcripts allow students to review lecture material in detail
   as they study for upcoming assignments and quizzes.
-file: /ol-ocw-studio-app/courses/hst-947-medical-artificial-intelligence-spring-2005/db08059ce391a2e8ca7ac0ee10517349_ch12_language2.pdf
+file: /courses/hst-947-medical-artificial-intelligence-spring-2005/db08059ce391a2e8ca7ac0ee10517349_ch12_language2.pdf
 file_size: 1031578
 file_type: application/pdf
 learning_resource_types:
