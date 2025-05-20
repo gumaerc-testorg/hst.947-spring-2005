@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-947-medical-artificial-intelligence-spring-2005/e1d475ff950986d174e267143ca44f6c_hst-947s05-th.jpg
+file: /courses/hst-947-medical-artificial-intelligence-spring-2005/e1d475ff950986d174e267143ca44f6c_hst-947s05-th.jpg
 file_size: 5359
 file_type: image/jpeg
 image_metadata:
