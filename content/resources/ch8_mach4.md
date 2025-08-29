@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides and accompanying transcripts for
   chapter 8. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
-file: /courses/hst-947-medical-artificial-intelligence-spring-2005/836662efd1ab239a833bbe20c7caca9d_ch8_mach4.pdf
+file: /ol-ocw-studio-app/courses/hst-947-medical-artificial-intelligence-spring-2005/836662efd1ab239a833bbe20c7caca9d_ch8_mach4.pdf
 file_size: 2244277
 file_type: application/pdf
 learning_resource_types:
